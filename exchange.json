@@ -1,0 +1,22 @@
+{
+  "main": "super-movies-sapi.raml",
+  "name": "s-api-movies",
+  "groupId": "bfd2d521-2fd0-47fd-94e6-54ee65e93a77",
+  "assetId": "s-api-movies",
+  "version": "1.0.0",
+  "classifier": "raml",
+  "tags": [],
+  "dependencies": [
+    {
+      "groupId": "org.mule.examples",
+      "assetId": "basic-auth-securityscheme",
+      "version": "1.0.0"
+    },
+    {
+      "groupId": "org.mule.connectivity",
+      "assetId": "rest-connect-library",
+      "version": "1.0.2"
+    }
+  ],
+  "descriptorVersion": "1.0.0"
+}
