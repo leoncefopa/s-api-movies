@@ -20,6 +20,6 @@
   ],
   "descriptorVersion": "1.0.0",
   "organizationId": "4f93fecb-1ecb-4fa3-8bcd-712e959455fd",
-  "apiVersion": "1.0",
+  "apiVersion": "v1",
   "originalFormatVersion": "1.0"
 }
