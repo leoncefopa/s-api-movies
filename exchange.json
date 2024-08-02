@@ -3,7 +3,7 @@
   "name": "s-api-movies",
   "groupId": "76848568-e1ce-4b5f-9eb9-c5bd6a2cbc07",
   "assetId": "s-api-movies",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "classifier": "raml",
   "tags": [],
   "dependencies": [
