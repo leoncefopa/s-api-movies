@@ -1,7 +1,7 @@
 {
   "main": "super-movies-sapi.raml",
   "name": "s-api-movies",
-  "groupId": "98119fd9-6064-434f-8635-f40adb35d0ce",
+  "groupId": "76848568-e1ce-4b5f-9eb9-c5bd6a2cbc07",
   "assetId": "s-api-movies",
   "version": "1.0.0",
   "classifier": "raml",
@@ -19,7 +19,7 @@
     }
   ],
   "descriptorVersion": "1.0.0",
-  "organizationId": "98119fd9-6064-434f-8635-f40adb35d0ce",
+  "organizationId": "76848568-e1ce-4b5f-9eb9-c5bd6a2cbc07",
   "apiVersion": "v1",
   "originalFormatVersion": "1.0"
 }
